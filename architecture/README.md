@@ -116,7 +116,7 @@ User
   - Identity tokenization
   - Community reward system
 - Core:
-  - $SamanthaAi token
+  - $SAMANTHAAI token
   - Onchain identity anchoring
   - DAO governance (future)
 
