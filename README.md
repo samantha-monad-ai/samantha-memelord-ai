@@ -47,7 +47,7 @@ This creates a **new category: Cultural AI Infrastructure.**
 - Web frontend — Public chat interface
 - Automation — X (Twitter) autopost system
 - Webhooks — event routing
-- Blockchain layer — $SamanthaAi culture token (coming)
+- Blockchain layer — $SAMANTHAAI culture token (coming)
 
 ---
 
@@ -89,7 +89,7 @@ Category:
 - Community reward loops
 
 ### Phase 3 — Tokenization
-- $SamanthaAi culture token
+- $SAMANTHAAI culture token
 - Identity layer
 - DAO & community ownership
 
