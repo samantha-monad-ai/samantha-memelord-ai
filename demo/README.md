@@ -121,7 +121,9 @@ Matches Moltiverse themes:
 
 # 6. Live Demo Links
 
-Check Official Link Here: https://linktr.ee/samantha_ai
+Official Links: https://linktr.ee/samantha_ai
+Website: https://www.chatbase.co/GAj0OGzn1rNbcBWIx_e3e/help
+Telegram Bot: https://t.me/Samantha_MemelordAi_bot
 
 ---
 
