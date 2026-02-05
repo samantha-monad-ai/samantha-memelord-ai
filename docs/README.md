@@ -69,7 +69,7 @@ By combining AI agents, Telegram bots, website chat, and social automation, Sama
 - Community hype automation
 
 ### 4.5 Culture Token Layer (Coming)
-- $SamanthaAi token
+- $SAMANTHAAI token
 - Community rewards
 - Identity & ownership layer
 
