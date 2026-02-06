@@ -8,7 +8,7 @@ This project is built for the **Monad Moltiverse Hackathon**.
 
 ---
 
-## 🧠 What is Samantha?
+## What is Samantha?
 
 Samantha is not a generic chatbot.
 
@@ -23,7 +23,7 @@ She speaks like an OG Monad Discord member, reviving early community culture, in
 
 ---
 
-## 💜 Why Samantha Exists (Problem)
+## Why Samantha Exists (Problem)
 
 As Web3 ecosystems scale, they lose:
 
@@ -37,7 +37,7 @@ Communities grow, but **culture fades.**
 
 ---
 
-## ✨ Samantha’s Solution
+## Samantha’s Solution
 
 Samantha preserves and revives culture using **autonomous emotional AI.**
 
@@ -55,13 +55,13 @@ This creates a new category:
 
 ---
 
-## 🏗 System Architecture Overview
+## System Architecture Overview
 
 User → Website / Telegram / X → Samantha AI Brain (Chatbase + Botpress) → Culture Memory Engine → Emotional Response Generator → Social Automation Engine → Community Growth Loops → Onchain Identity Layer (coming)
 
 ---
 
-## ⚙ Tech Stack
+## Tech Stack
 
 - **Chatbase** — Core AI brain & personality training  
 - **Botpress** — Telegram conversational AI agent  
@@ -72,7 +72,7 @@ User → Website / Telegram / X → Samantha AI Brain (Chatbase + Botpress) → 
 
 ---
 
-## 🔴 Live Demo
+## Live Demo
 
 - All official links: https://linktr.ee/samantha_ai  
 - Website: https://www.chatbase.co/GAj0OGzn1rNbcBWIx_e3e/help  
@@ -80,7 +80,7 @@ User → Website / Telegram / X → Samantha AI Brain (Chatbase + Botpress) → 
 
 ---
 
-## 🏆 Hackathon Submission
+## Hackathon Submission
 
 Built for **Monad Moltiverse Hackathon**
 
@@ -93,7 +93,7 @@ Built for **Monad Moltiverse Hackathon**
 
 ---
 
-## 🛣 Roadmap
+## Roadmap
 
 ### Phase 1 — Culture Revival
 - Samantha AI launch  
@@ -118,7 +118,7 @@ Built for **Monad Moltiverse Hackathon**
 
 ---
 
-## 🌍 Vision
+## Vision
 
 To preserve **Web3 culture, emotion, and memory — not just code.**
 
