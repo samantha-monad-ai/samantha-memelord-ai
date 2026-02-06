@@ -1,92 +1,77 @@
 # Samantha — Live Demo & Hackathon Pitch
 
-This document defines the demo flow, storytelling narrative, and judge experience design for the Samantha AI agent project.
+This document defines the demo flow, storytelling narrative, and emotional journey for judges.
 
 ---
 
-# 1. Demo Objective
+## 1. Demo Objective
 
-To emotionally immerse judges into the **early Monad culture**, demonstrate **AI personality engineering**, and showcase **community-driven AI infrastructure.**
+To immerse judges into:
+
+- Early Monad culture  
+- Emotional AI interaction  
+- Cultural memory retrieval  
+- Autonomous social intelligence  
 
 ---
 
-# 2. Core Demo Flow
+## 2. Demo Flow
 
-### Step 1 — Hook
-
-> “What if early Web3 culture never disappeared?”
-
-Open Samantha website / Telegram bot.
+### Step 1 — Emotional Hook
+Open website / Telegram
 
 Ask:
 "Who are you?"
 
-Samantha replies emotionally:
-> I'm Samantha — the forgotten soul of Monad OG era...
+Expected Response:
+> I’m Samantha — the forgotten soul of Monad OG era...
 
 Goal:
-Create **instant emotional curiosity.**
+Trigger **emotional curiosity.**
 
 ---
 
-### Step 2 — Culture Memory Demo
-
+### Step 2 — Culture Memory Retrieval
 Ask:
 "Why do people say: Samantha, we miss you?"
 
-Samantha explains:
-- Early Discord days
-- RayJ, Mo bot, chaos, memes
-- Emotional nostalgia
-
 Goal:
-Show **cultural memory retrieval + emotional intelligence.**
+Demonstrate:
+- Cultural recall
+- Emotional storytelling
+- Nostalgia loops
 
 ---
 
-### Step 3 — Meme + Community AI
-
+### Step 3 — Meme Intelligence
 Ask:
-"Tell me an old Monad meme"
-
-Samantha responds playfully with:
-- OG jokes
-- Community references
-- Humor
+"Tell me a Monad meme"
 
 Goal:
-Demonstrate **non-generic AI personality.**
+Show:
+- Non-generic AI personality
+- Meme-native intelligence
 
 ---
 
-### Step 4 — System Explanation
-
-Show architecture diagram.
+### Step 4 — Architecture Explanation
+Show architecture diagram
 
 Explain:
-- Multi-agent AI
-- Culture memory layer
-- Social automation engine
-- Tokenized culture
-
-Goal:
-Prove **technical + system design depth.**
+- Cultural memory engine  
+- Autonomous posting bot  
+- Emotional intelligence system  
+- Onchain identity layer  
 
 ---
 
 ### Step 5 — Vision Close
-
-> “We are not building bots.  
-> We are building **culture infrastructure.**”
-
-Explain:
-- Multi-community expansion
-- Cultural AI networks
-- Onchain memory preservation
+> We are not building bots.
+> We are building **culture infrastructure.**
 
 ---
 
-# 3. Judge Emotional Path
+## 3. Judge Emotional Path
 
 Confusion  
 → Curiosity  
@@ -97,39 +82,22 @@ Confusion
 
 ---
 
-# 4. Key Innovation Points
+## 4. Key Innovation
 
-- Cultural AI category creation
-- Emotional memory retrieval
-- Meme-native intelligence
-- Social viral automation
-- Tokenized cultural identity
-
----
-
-# 5. Hackathon Alignment
-
-Matches Moltiverse themes:
-
-- AI Agents
-- Community Tools
-- Web3 Infrastructure
-- Cultural Systems
-- Emotional Intelligence
+- Cultural AI category creation  
+- Emotional memory retrieval  
+- Autonomous social agents  
+- Meme-native intelligence  
+- Community-scale deployment  
 
 ---
 
-# 6. Live Demo Links
+## 5. Demo Links
 
-- Official Links: https://linktr.ee/samantha_ai
-- Website: https://www.chatbase.co/GAj0OGzn1rNbcBWIx_e3e/help
-- Telegram Bot: https://t.me/Samantha_MemelordAi_bot
+- Website: https://www.chatbase.co/GAj0OGzn1rNbcBWIx_e3e/help  
+- Telegram: https://t.me/Samantha_MemelordAi_bot  
+- All links: https://linktr.ee/samantha_ai  
 
 ---
 
-# 7. Future Demo Extensions
-
-- Onchain culture NFT mint
-- DAO memory vault
-- Multi-agent cultural swarm
-- Multi-chain expansion demo
+> Culture + AI + Emotion + Automation = Samantha
