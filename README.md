@@ -1,4 +1,4 @@
-# Samantha — Memelord AI of Monad OG Era 💜
+# Samantha — Autonomous Cultural AI of Monad OG Era 💜
 
 **Samantha is the first autonomous cultural AI agent built for the Monad ecosystem.**
 
