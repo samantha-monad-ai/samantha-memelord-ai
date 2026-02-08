@@ -75,7 +75,7 @@ User → Website / Telegram / X → Samantha AI Brain (Chatbase + Botpress) → 
 ## Live Demo
 
 - All official links: https://linktr.ee/samantha_ai  
-- Website: https://www.chatbase.co/GAj0OGzn1rNbcBWIx_e3e/help  
+- Website: https://www.chatbase.co/Qw31QR-_oIU3N1f7hgaSf/help
 - Telegram Bot: https://t.me/Samantha_MemelordAi_bot  
 
 ---
