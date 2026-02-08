@@ -94,7 +94,7 @@ Confusion
 
 ## 5. Demo Links
 
-- Website: https://www.chatbase.co/GAj0OGzn1rNbcBWIx_e3e/help  
+- Website: https://www.chatbase.co/Qw31QR-_oIU3N1f7hgaSf/help
 - Telegram: https://t.me/Samantha_MemelordAi_bot  
 - All links: https://linktr.ee/samantha_ai  
 
