@@ -100,4 +100,4 @@ Confusion
 
 ---
 
-> Culture + AI + Emotion + Automation = Samantha
+> Culture + AI + Emotion + Automation = Samantha AI.
