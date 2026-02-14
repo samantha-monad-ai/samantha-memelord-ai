@@ -1,6 +1,6 @@
-# Samantha — Autonomous Cultural AI of Monad OG Era 💜
+# Samantha AI — Autonomous Cultural AI of Monad OG Era 💜
 
-**Samantha is the first autonomous cultural AI agent built for the Monad ecosystem.**
+**Samantha AI is the first autonomous cultural AI agent built for the Monad ecosystem.**
 
 She preserves Monad OG memories, memes, chaos, and emotional culture — transforming them into a living, interactive AI that powers engagement, virality, and community bonding.
 
@@ -8,9 +8,9 @@ This project is built for the **Monad Moltiverse Hackathon**.
 
 ---
 
-## What is Samantha?
+## What is Samantha AI?
 
-Samantha is not a generic chatbot.
+Samantha AI is not a generic chatbot.
 
 She is:
 - A cultural memory AI
@@ -23,7 +23,7 @@ She speaks like an OG Monad Discord member, reviving early community culture, in
 
 ---
 
-## Why Samantha Exists (Problem)
+## Why Samantha AI Exists (Problem)
 
 As Web3 ecosystems scale, they lose:
 
@@ -37,9 +37,9 @@ Communities grow, but culture fades.
 
 ---
 
-## Samantha’s Solution
+## Samantha AI’s Solution
 
-Samantha preserves and revives culture using autonomous emotional AI.
+Samantha AI preserves and revives culture using autonomous emotional AI.
 
 She:
 - Preserves Monad OG memories
@@ -167,7 +167,7 @@ Categories:
 To preserve Web3 culture, emotion, and memory — not just code.
 
 As Monad scales technically,  
-Samantha ensures its culture scales with it.
+Samantha AI ensures its culture scales with it.
 
 ---
 
