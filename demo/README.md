@@ -163,7 +163,7 @@ Community identity.
 # 6. Demo Links
 
 Website:  
-https://www.chatbase.co/Qw31QR-_oIU3N1f7hgaSf/help
+https://www.chatbase.co/F_698CuE9TRK2AXmk2F7H/help
 
 Telegram Bot:  
 https://t.me/Samantha_MemelordAi_bot
